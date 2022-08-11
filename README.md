@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohamed El Ghandour</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/MGhandour92](https://github.com/MGhandour92)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/MGhandour92)
 
-- 📝 I regularly write articles on [http://brainsdazed.blogspot.com.eg/](http://brainsdazed.blogspot.com.eg/)
+- 📝 I regularly write articles on [Blog](http://brainsdazed.blogspot.com.eg/)
 
 - 📫 How to reach me **m.el_ghandour@hotmail.com**
 
-- 📄 Know about my experiences [https://github.com/MGhandour92/MyCertificates/blob/master/CV/Mohamed%20El%20Ghandour%20-%20CV.pdf](https://github.com/MGhandour92/MyCertificates/blob/master/CV/Mohamed%20El%20Ghandour%20-%20CV.pdf)
+- 📄 Know about my experiences [Detailed CV](https://github.com/MGhandour92/MyCertificates/blob/master/CV/Mohamed%20El%20Ghandour%20-%20CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
