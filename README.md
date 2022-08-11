@@ -28,4 +28,4 @@
 
 
 
-Built by [Github profile readme](https://rahuldkjain.github.io/gh-profile-readme-generator/
+Built by [Github profile readme](https://rahuldkjain.github.io/gh-profile-readme-generator/)
