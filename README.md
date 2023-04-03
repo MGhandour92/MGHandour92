@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed El Ghandour</h1>
-<h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/MGhandour92)
 
